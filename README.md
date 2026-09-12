@@ -7,7 +7,6 @@
 
 ---
 
-### 🚀 About Me
 
 I'm a Computer Science student specializing in **Cyber Security**, currently exploring the intersection of AI, security, and full-stack development. I love picking up new tools and technologies - for me, every project is a chance to learn something I didn't know yesterday.
 
