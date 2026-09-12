@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gayathri 👋</h1>
+<h1 align="center">Hi, I'm Gayathri :sparkles:</h1>
 <h3 align="center">Cybersecurity Enthusiast | Full-Stack Developer | Avid Learner</h3>
 
 <p align="center">
