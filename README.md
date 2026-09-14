@@ -34,4 +34,4 @@ Whether it's building an intrusion detection system, simulating attacker behavio
 
 
 
-<p align="center"><i>Always learning, always building. Let's connect if you're working on something interesting! 🚀</i></p>
+<p align="center"><i>Always learning, always building. :sparkles:</i></p>
